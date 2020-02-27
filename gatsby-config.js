@@ -29,11 +29,11 @@ module.exports = {
       },
       {
         name: 'Información',
-        slug: '/Informacion/',
+        slug: '/informacion',
       },
       {
         name: 'contacto',
-        slug: '/contacto/',
+        slug: '/contacto',
       },
     ],
     postsPerFirstPage: 7,
