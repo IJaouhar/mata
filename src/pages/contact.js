@@ -5,7 +5,7 @@ import PageTitle from '../components/PageTitle'
 import ContactForm from '../components/ContactForm'
 import SEO from '../components/SEO'
 
-const Contact = ({ data }) => {
+const Contacto = ({ data }) => {
   return (
     <Layout>
       <SEO title="Contact" description="Contact description goes here" />
@@ -17,4 +17,4 @@ const Contact = ({ data }) => {
   )
 }
 
-export default Contact
+export default Contacto

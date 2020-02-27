@@ -32,8 +32,8 @@ module.exports = {
         slug: '/informacion',
       },
       {
-        name: 'contacto',
-        slug: '/contacto',
+        name: 'Contact',
+        slug: '/contact',
       },
     ],
     postsPerFirstPage: 7,
