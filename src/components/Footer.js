@@ -29,6 +29,9 @@ const Item = styled.li`
   @media screen and (min-width: ${props => props.theme.responsive.small}) {
     width: auto;
   }
+  p {
+    font-size: 1rem;
+  }
   a {
     font-weight: 600;
     transition: all 0.2s;
@@ -51,6 +54,11 @@ const Footer = () => (
           style={{ width: '50px' }}
           alt="Logo matacucarachas.com"
         />
+      </Item>
+      <Item>
+        <p>matacucarachas.com participa en el Programa de Afiliados de Amazon EU, 
+          un programa de publicidad para</p><p>afiliados diseñado para ofrecer a sitios 
+          web un modo de obtener comisiones por publicidad. <a href='amazon.es'>Amazon.es</a></p>
       </Item>
       <Item>
         <p>matacucarachas.com</p>
