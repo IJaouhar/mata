@@ -17,9 +17,9 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'Matacucarachas.com',
+    title: 'Las cucarachas, por que tenemos cucarachas en casa y como podemos matarlas y acabar con ellas.',
     description:
-      'Blog esplicativo sobre como controlar y acabar con cucarachas',
+      'Blog que trata sobre las cucarachas, por que tenemos cucarachas en casa, como se reproducen las cucarachas y como podemos matar a las cucarachas y acabar con ellas.',
     siteUrl: 'https://matacucarachas.com',
     image: '/images/share.jpg',
     menuLinks: [
