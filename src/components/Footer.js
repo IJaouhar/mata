@@ -58,7 +58,7 @@ const Footer = () => (
       <Item>
         <p>matacucarachas.com participa en el Programa de Afiliados de Amazon EU, 
           un programa de publicidad para</p><p>afiliados diseñado para ofrecer a sitios 
-          web un modo de obtener comisiones por publicidad. <a href='www.amazon.es'>Amazon.es</a></p>
+          web un modo de obtener comisiones por publicidad. <a href='https://www.amazon.es'>Amazon.es</a></p>
       </Item>
       <Item>
         <p>matacucarachas.com</p>
